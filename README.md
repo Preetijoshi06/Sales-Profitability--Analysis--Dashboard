@@ -166,7 +166,7 @@ seaborn
 ```
 # Deliverables
 
--  Research Paper (EDA, insights, recommendations)
+- Research Paper (EDA, insights, recommendations)
 - Streamlit Dashboard
 - Business Insights & KPI Analysis
 
@@ -176,11 +176,11 @@ seaborn
 - Revenue Contribution
 - Profit Contribution
 - Margin Volatility
-  # Future Improvements
+# Future Improvements
 - Add real-time data integration
 - Advanced forecasting models
 - Supply chain optimization analytics
 - Deployment on cloud platforms
-  # Acknowledgements
+# Acknowledgements
 
 This project was developed as part of a data analytics and business intelligence exercise to demonstrate real-world problem-solving using data.

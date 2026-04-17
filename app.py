@@ -13,7 +13,7 @@ st.title("📊 Profitability & Performance Dashboard")
 # -----------------------------
 # LOAD DATA
 # -----------------------------
-data = pd.read_csv(r"C:\Users\lenovo\OneDrive\picture 2\python series\Nassau Candy Distributor.csv")
+data = pd.read_csv("data.csv")
 
 # -----------------------------
 # PREPROCESSING

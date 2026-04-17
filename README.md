@@ -131,7 +131,7 @@ The dataset includes:
 🚀 Live Demo
 
 👉 Streamlit App:
-🔗 [http://localhost:8501](https://sales-profitability--analysis--dashboard-gk86wdsqe89trrq5zmrea.streamlit.app/)
+🔗https://sales-profitability--analysis--dashboard-gk86wdsqe89trrq5zmrea.streamlit.app/
 
 💻 How to Run Locally
 ```bash
